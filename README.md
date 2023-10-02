@@ -66,4 +66,4 @@ The process of crafting this portfolio website has been enlightening and has all
 
 Feel free to explore my portfolio website and get in touch with me if you have any questions or opportunities to collaborate.
 
-Visit My Portfolio Website :- https://kumar-gourav-01.github.io/CodSoft/
+Visit My Portfolio Website :- https://kumar-gourav-01.github.io/Portfolio/
